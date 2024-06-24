@@ -21,8 +21,8 @@ In bot.py you can change the delay for sending requests for data from Bybit: STA
 ### Step 1: Clone the repository
 
 `bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/RamanHrynkevich/discord-bybit-bot.git
+cd discord-bybit-bot
 
 ### Step 2: Build a Docker image
 docker build -t discord-bot . 
